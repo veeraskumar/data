@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Ooty & Coonoor Hill Trip",
+    "category": ["family", "group", "honeymoon"],
+    "shortDescription": "Cool climate hill stations with tea gardens and scenic viewpoints.",
+    "fullDescription": "Experience the refreshing climate of Ooty and Coonoor with scenic tea gardens, misty viewpoints, and peaceful surroundings. This trip includes comfortable hotel stays, local sightseeing, and smooth travel arrangements. Ideal for families, couples, and group travelers looking for a relaxing hill station holiday.",
+    "details": { "days": 3, "nights": 2, "food": ["Breakfast", "Dinner"], "stay": "Hotel" },
+    "pricePerPerson": 9500,
+    "url": ["ooty-coonoor-hill-trip", "chennai-city-sightseeing"]
+  },
+  {
+    "id": 2,
+    "title": "Kodaikanal Romantic Getaway",
+    "category": ["honeymoon"],
+    "shortDescription": "Misty hills, lakes, and peaceful couple moments.",
+    "fullDescription": "Enjoy a romantic escape in Kodaikanal surrounded by misty hills and calm weather. Visit popular attractions like Coaker’s Walk and Kodai Lake while spending quality time together. Perfect for honeymoon couples seeking privacy and scenic beauty.",
+    "details": { "days": 3, "nights": 2, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 10500,
+    "url": ["kodaikanal-romantic-getaway"]
+  },
+  {
+    "id": 3,
+    "title": "Rameswaram Devotional Tour",
+    "category": ["devotional", "family"],
+    "shortDescription": "Holy temples and sacred spiritual experience.",
+    "fullDescription": "Visit the sacred town of Rameswaram and experience spiritual peace through temple darshan and holy water rituals. This tour covers major pilgrimage spots with planned travel and stay. Suitable for families and senior citizens.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 5500,
+    "url": ["rameswaram-devotional-tour"]
+  },
+  {
+    "id": 4,
+    "title": "Madurai Temple Darshan",
+    "category": ["devotional", "one-day"],
+    "shortDescription": "Meenakshi Amman temple visit.",
+    "fullDescription": "A one-day spiritual trip covering the famous Meenakshi Amman Temple and nearby religious places. Ideal for devotees seeking divine blessings in a short time. Smooth travel with planned darshan schedules.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 1800,
+    "url": ["madurai-temple-darshan"]
+  },
+  {
+    "id": 5,
+    "title": "Kanyakumari Sunrise Tour",
+    "category": ["family", "one-day"],
+    "shortDescription": "Sunrise and ocean views at India’s southern tip.",
+    "fullDescription": "Witness the breathtaking sunrise at Kanyakumari and visit famous landmarks like Vivekananda Rock Memorial. Enjoy scenic ocean views and cultural experiences. Perfect for family outings and short trips.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 2000,
+    "url": ["kanyakumari-sunrise-tour"]
+  },
+  {
+    "id": 6,
+    "title": "Yercaud Hill Station Trip",
+    "category": ["family", "group", "two-day"],
+    "shortDescription": "Peaceful hills with viewpoints and lake boating.",
+    "fullDescription": "Escape to the calm hills of Yercaud with pleasant weather and natural beauty. Enjoy lake boating, viewpoints, and relaxed sightseeing. A perfect short getaway for families and groups.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 6200,
+    "url": ["yercaud-hill-station-trip"]
+  },
+  {
+    "id": 7,
+    "title": "Valparai Nature Escape",
+    "category": ["family", "group"],
+    "shortDescription": "Tea estates, waterfalls, and forest drives.",
+    "fullDescription": "Travel through lush tea plantations and scenic forest roads in Valparai. Experience waterfalls, wildlife views, and refreshing climate. Ideal for nature lovers and group travelers.",
+    "details": { "days": 3, "nights": 2, "food": ["Breakfast", "Dinner"], "stay": "Resort" },
+    "pricePerPerson": 9800,
+    "url": ["valparai-nature-escape"]
+  },
+  {
+    "id": 8,
+    "title": "Mahabalipuram Heritage Tour",
+    "category": ["college", "group", "one-day"],
+    "shortDescription": "Ancient temples and coastal heritage.",
+    "fullDescription": "Explore historic rock-cut temples and monuments of Mahabalipuram. Learn about Tamil heritage while enjoying beachside views. Best suited for college students and group tours.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 1600,
+    "url": ["mahabalipuram-heritage-tour"]
+  },
+  {
+    "id": 9,
+    "title": "Chennai City Sightseeing",
+    "category": ["college", "group", "one-day"],
+    "shortDescription": "Beach, museums, and city landmarks.",
+    "fullDescription": "Discover Chennai’s popular attractions including Marina Beach, museums, and historical landmarks. This city tour offers a mix of culture, history, and coastal beauty. Ideal for students and group travelers.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 1500,
+    "url": ["chennai-city-sightseeing"]
+  },
+  {
+    "id": 10,
+    "title": "Coimbatore – Isha Temple Trip",
+    "category": ["devotional", "group", "one-day"],
+    "shortDescription": "Adiyogi Shiva and spiritual calm.",
+    "fullDescription": "Visit the world-famous Adiyogi Shiva statue and experience inner peace at Isha Yoga Center. This spiritual journey offers calm surroundings and a refreshing atmosphere. Suitable for devotees and groups.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 1700,
+    "url": ["isha-temple-trip"]
+  },
+  {
+    "id": 11,
+    "title": "Hogenakkal Waterfalls Tour",
+    "category": ["family", "group", "one-day"],
+    "shortDescription": "Waterfalls and coracle ride experience.",
+    "fullDescription": "Enjoy the scenic beauty of Hogenakkal waterfalls with coracle rides and riverside views. A refreshing one-day nature trip for families and groups. Ideal for weekend outings.",
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "pricePerPerson": 1900,
+    "url": "hogenakkal-waterfalls-tour"
+  },
+  {
+    "id": 12,
+    "title": "Kolli Hills Adventure Trip",
+    "category": ["college", "group", "two-day"],
+    "shortDescription": "Hairpin bends, trekking, and waterfalls.",
+    "fullDescription": "Experience thrilling hairpin bends, trekking paths, and scenic waterfalls in Kolli Hills. This adventure-filled trip is ideal for college students and young groups seeking excitement and nature.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 6800,
+    "url": ["kolli-hills-adventure-trip"]
+  },
+  {
+    "id": 13,
+    "title": "Thanjavur Heritage & Temple Tour",
+    "category": ["family", "devotional"],
+    "shortDescription": "Temple and cultural heritage experience.",
+    "fullDescription": "Visit the magnificent Brihadeeswarar Temple and explore Thanjavur’s rich cultural heritage. This tour offers spiritual and historical insights. Suitable for families and devotees.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 6000,
+    "url": ["thanjavur-heritage-tour"]
+  },
+  {
+    "id": 14,
+    "title": "Mudumalai Wildlife Safari",
+    "category": ["family", "group"],
+    "shortDescription": "Forest safari and wildlife spotting.",
+    "fullDescription": "Explore the rich wildlife of Mudumalai with guided forest safaris and nature trails. Spot animals in their natural habitat and enjoy peaceful surroundings. Ideal for families and nature lovers.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Resort" },
+    "pricePerPerson": 7200,
+    "url": ["mudumalai-wildlife-safari"]
+  },
+  {
+    "id": 15,
+    "title": "Courtallam Falls Weekend Trip",
+    "category": ["family", "group", "two-day"],
+    "shortDescription": "Refreshing waterfalls and leisure stay.",
+    "fullDescription": "Relax and refresh yourself at the famous Courtallam waterfalls. Enjoy leisure time, short treks, and comfortable stay. A perfect weekend getaway for families and groups.",
+    "details": { "days": 2, "nights": 1, "food": ["Breakfast"], "stay": "Hotel" },
+    "pricePerPerson": 5800,
+    "url": ["courtallam-falls-weekend-trip"]
+  }
+]
