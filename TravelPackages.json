@@ -11,6 +11,7 @@
       "food": ["Breakfast", "Dinner"],
       "stay": "Hotel"
     },
+    "recommended": true,
     "pricePerPerson": 9500,
     "url": [
       "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg",
@@ -30,6 +31,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": false,
     "pricePerPerson": 10500,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg", "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -45,6 +47,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": true,
     "pricePerPerson": 5500,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg", "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -56,6 +59,7 @@
     "fullDescription": "A one-day spiritual trip covering the famous Meenakshi Amman Temple and nearby religious places. Ideal for devotees seeking divine blessings in a short time. Smooth travel with planned darshan schedules.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1800,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -66,6 +70,7 @@
     "fullDescription": "Witness the breathtaking sunrise at Kanyakumari and visit famous landmarks like Vivekananda Rock Memorial. Enjoy scenic ocean views and cultural experiences. Perfect for family outings and short trips.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 2000,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -80,6 +85,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": false,
     "pricePerPerson": 6200,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -95,6 +101,7 @@
       "food": ["Breakfast", "Dinner"],
       "stay": "Resort"
     },
+    "recommended": true,
     "pricePerPerson": 9800,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -106,6 +113,7 @@
     "fullDescription": "Explore historic rock-cut temples and monuments of Mahabalipuram. Learn about Tamil heritage while enjoying beachside views. Best suited for college students and group tours.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1600,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -116,6 +124,7 @@
     "fullDescription": "Discover Chennai’s popular attractions including Marina Beach, museums, and historical landmarks. This city tour offers a mix of culture, history, and coastal beauty. Ideal for students and group travelers.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1500,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -126,6 +135,7 @@
     "fullDescription": "Visit the world-famous Adiyogi Shiva statue and experience inner peace at Isha Yoga Center. This spiritual journey offers calm surroundings and a refreshing atmosphere. Suitable for devotees and groups.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1700,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -136,6 +146,7 @@
     "fullDescription": "Enjoy the scenic beauty of Hogenakkal waterfalls with coracle rides and riverside views. A refreshing one-day nature trip for families and groups. Ideal for weekend outings.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1900,
+    "recommended": false,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
@@ -150,6 +161,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": true,
     "pricePerPerson": 6800,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -165,6 +177,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": false,
     "pricePerPerson": 6000,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -180,6 +193,7 @@
       "food": ["Breakfast"],
       "stay": "Resort"
     },
+    "recommended": true,
     "pricePerPerson": 7200,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
@@ -195,6 +209,7 @@
       "food": ["Breakfast"],
       "stay": "Hotel"
     },
+    "recommended": false,
     "pricePerPerson": 5800,
     "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   }
