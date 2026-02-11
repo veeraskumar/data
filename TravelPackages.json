@@ -136,7 +136,7 @@
     "fullDescription": "Enjoy the scenic beauty of Hogenakkal waterfalls with coracle rides and riverside views. A refreshing one-day nature trip for families and groups. Ideal for weekend outings.",
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1900,
-    "url": "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"
+    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
   },
   {
     "id": 12,
