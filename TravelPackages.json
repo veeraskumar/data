@@ -14,9 +14,9 @@
     "recommended": true,
     "pricePerPerson": 9500,
     "url": [
-      "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg",
-      "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg",
-      "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"
+      "user-1.jpg",
+      "user-1.jpg",
+      "user-1.jpg"
     ]
   },
   {
@@ -33,7 +33,7 @@
     },
     "recommended": false,
     "pricePerPerson": 10500,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg", "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 3,
@@ -49,7 +49,7 @@
     },
     "recommended": true,
     "pricePerPerson": 5500,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg", "https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg","user-1.jpg","user-1.jpg"]
   },
   {
     "id": 4,
@@ -60,7 +60,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1800,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 5,
@@ -71,7 +71,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 2000,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg","user-1.jpg"]
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     },
     "recommended": false,
     "pricePerPerson": 6200,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg"]
   },
   {
     "id": 7,
@@ -103,7 +103,7 @@
     },
     "recommended": true,
     "pricePerPerson": 9800,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg"]
   },
   {
     "id": 8,
@@ -114,7 +114,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1600,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg","user-1.jpg"]
   },
   {
     "id": 9,
@@ -125,7 +125,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1500,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg","user-1.jpg"]
   },
   {
     "id": 10,
@@ -136,7 +136,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1700,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg",]
   },
   {
     "id": 11,
@@ -147,7 +147,7 @@
     "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
     "pricePerPerson": 1900,
     "recommended": false,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 12,
@@ -163,7 +163,7 @@
     },
     "recommended": true,
     "pricePerPerson": 6800,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
     },
     "recommended": false,
     "pricePerPerson": 6000,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 14,
@@ -193,9 +193,9 @@
       "food": ["Breakfast"],
       "stay": "Resort"
     },
-    "recommended": true,
+    "recommended": false,
     "pricePerPerson": 7200,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   },
   {
     "id": 15,
@@ -211,6 +211,6 @@
     },
     "recommended": false,
     "pricePerPerson": 5800,
-    "url": ["https://raw.githubusercontent.com/veeraskumar/data/main/image/user-1.jpg"]
+    "url": ["user-1.jpg","user-1.jpg"]
   }
 ]
