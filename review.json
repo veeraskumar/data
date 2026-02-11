@@ -2,31 +2,38 @@
   {
     "rating": 4.5,
     "userName": "Arun",
-    "comment": "Smooth trip planning and friendly driver. Overall great experience."
+    "comment": "Smooth trip planning and friendly driver. Overall great experience.",
+    "recommended": true
   },
   {
     "rating": 5,
     "userName": "Priya",
-    "comment": "Very well organized tour. Pricing was transparent and fair."
+    "comment": "Very well organized tour. Pricing was transparent and fair.",
+    "recommended": true
   },
   {
     "rating": 4,
     "userName": "Vignesh",
-    "comment": "Good service and comfortable travel. Slight delay but manageable."
+    "comment": "Good service and comfortable travel. Slight delay but manageable.",
+    "recommended": true
   },
   {
     "rating": 4.8,
     "userName": "Kavitha",
-    "comment": "Driver was polite and knowledgeable. Family enjoyed the trip."
+    "comment": "Driver was polite and knowledgeable. Family enjoyed the trip.",
+    "recommended": true
   },
   {
     "rating": 3.9,
     "userName": "Suresh",
-    "comment": "Decent package for the price. Would recommend for local trips."
+    "comment": "Decent package for the price. Would recommend for local trips.",
+    "recommended": true
   },
   {
     "rating": 4.6,
     "userName": "Divya",
-    "comment": "Quick response and flexible itinerary. Very helpful team."
+    "comment": "Quick response and flexible itinerary. Very helpful team.",
+    "recommended": true
   }
 ]
+
