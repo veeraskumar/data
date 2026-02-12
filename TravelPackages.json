@@ -9,7 +9,8 @@
       "days": 3,
       "nights": 2,
       "food": ["Breakfast", "Dinner"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": true,
     "pricePerPerson": 9500,
@@ -25,7 +26,8 @@
       "days": 3,
       "nights": 2,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": false,
     "pricePerPerson": 10500,
@@ -41,7 +43,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": true,
     "pricePerPerson": 5500,
@@ -53,7 +56,7 @@
     "category": ["devotional", "one-day"],
     "shortDescription": "Meenakshi Amman temple visit.",
     "fullDescription": "A one-day spiritual trip covering the famous Meenakshi Amman Temple and nearby religious places. Ideal for devotees seeking divine blessings in a short time. Smooth travel with planned darshan schedules.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 1800,
     "recommended": false,
     "url": ["user-1.jpg", "user-1.jpg"]
@@ -64,7 +67,7 @@
     "category": ["family", "one-day"],
     "shortDescription": "Sunrise and ocean views at India’s southern tip.",
     "fullDescription": "Witness the breathtaking sunrise at Kanyakumari and visit famous landmarks like Vivekananda Rock Memorial. Enjoy scenic ocean views and cultural experiences. Perfect for family outings and short trips.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 2000,
     "recommended": false,
     "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
@@ -79,7 +82,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": false,
     "pricePerPerson": 6200,
@@ -95,7 +99,8 @@
       "days": 3,
       "nights": 2,
       "food": ["Breakfast", "Dinner"],
-      "stay": "Resort"
+      "stay": "Resort",
+      "location" : []
     },
     "recommended": true,
     "pricePerPerson": 9800,
@@ -107,7 +112,7 @@
     "category": ["college", "group", "one-day"],
     "shortDescription": "Ancient temples and coastal heritage.",
     "fullDescription": "Explore historic rock-cut temples and monuments of Mahabalipuram. Learn about Tamil heritage while enjoying beachside views. Best suited for college students and group tours.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 1600,
     "recommended": false,
     "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
@@ -118,7 +123,7 @@
     "category": ["college", "group", "one-day"],
     "shortDescription": "Beach, museums, and city landmarks.",
     "fullDescription": "Discover Chennai’s popular attractions including Marina Beach, museums, and historical landmarks. This city tour offers a mix of culture, history, and coastal beauty. Ideal for students and group travelers.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 1500,
     "recommended": false,
     "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
@@ -129,7 +134,7 @@
     "category": ["devotional", "group", "one-day"],
     "shortDescription": "Adiyogi Shiva and spiritual calm.",
     "fullDescription": "Visit the world-famous Adiyogi Shiva statue and experience inner peace at Isha Yoga Center. This spiritual journey offers calm surroundings and a refreshing atmosphere. Suitable for devotees and groups.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 1700,
     "recommended": false,
     "url": ["user-1.jpg"]
@@ -140,7 +145,7 @@
     "category": ["family", "group", "one-day"],
     "shortDescription": "Waterfalls and coracle ride experience.",
     "fullDescription": "Enjoy the scenic beauty of Hogenakkal waterfalls with coracle rides and riverside views. A refreshing one-day nature trip for families and groups. Ideal for weekend outings.",
-    "details": { "days": 1, "nights": 0, "food": [], "stay": "None" },
+    "details": { "days": 1, "nights": 0, "food": [], "stay": "None", "location" : [] },
     "pricePerPerson": 1900,
     "recommended": false,
     "url": ["user-1.jpg", "user-1.jpg"]
@@ -155,7 +160,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": true,
     "pricePerPerson": 6800,
@@ -171,7 +177,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": false,
     "pricePerPerson": 6000,
@@ -187,7 +194,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Resort"
+      "stay": "Resort",
+      "location" : []
     },
     "recommended": false,
     "pricePerPerson": 7200,
@@ -203,7 +211,8 @@
       "days": 2,
       "nights": 1,
       "food": ["Breakfast"],
-      "stay": "Hotel"
+      "stay": "Hotel",
+      "location" : []
     },
     "recommended": false,
     "pricePerPerson": 5800,
