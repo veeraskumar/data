@@ -2,256 +2,175 @@
   {
     "id": 1,
     "title": "Ooty & Coonoor Hill Trip",
-    "category": ["family", "group", "honeymoon"],
-    "shortDescription": "Cool climate hill stations with tea gardens and scenic viewpoints.",
-    "fullDescription": "Experience the refreshing climate of Ooty and Coonoor with scenic tea gardens, misty viewpoints, and peaceful surroundings. This trip includes comfortable hotel stays, local sightseeing, and smooth travel arrangements. Ideal for families, couples, and group travelers looking for a relaxing hill station holiday.",
+    "category": ["family", "group", "honeymoon", "domestic"],
+    "shortDescription": "3 days hill station trip with sightseeing and stay.",
+    "fullDescription": "Enjoy cool climate, tea estates and scenic viewpoints in Ooty and Coonoor with comfortable hotel stay and guided sightseeing.",
     "details": {
       "days": 3,
       "nights": 2,
-      "food": ["Breakfast", "Dinner"],
-      "stay": ["Hotel"],
-      "location": ["Ooty", "Coonoor", "Kotagiri"]
+      "stay": ["3 Star Hotel Stay (2 Nights)"],
+      "food": ["Day 1 Dinner", "Day 2 Breakfast & Dinner", "Day 3 Breakfast"],
+      "places": [
+        "Ooty Lake",
+        "Doddabetta Peak",
+        "Botanical Garden",
+        "Coonoor Tea Estate",
+        "Sims Park"
+      ]
     },
     "recommended": true,
     "pricePerPerson": 9500,
-    "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
+    "images": ["user-1.jpg", "coonoor.png", "tea-estate.png"]
   },
   {
     "id": 2,
-    "title": "Kodaikanal Romantic Getaway",
-    "category": ["honeymoon"],
-    "shortDescription": "Misty hills, lakes, and peaceful couple moments.",
-    "fullDescription": "Enjoy a romantic escape in Kodaikanal surrounded by misty hills and calm weather. Visit popular attractions like Coaker’s Walk and Kodai Lake while spending quality time together. Perfect for honeymoon couples seeking privacy and scenic beauty.",
+    "title": "Madurai Temple Darshan",
+    "category": ["devotional", "1-day", "domestic"],
+    "shortDescription": "One day spiritual trip with meals included.",
+    "fullDescription": "Visit famous temples in Madurai with arranged darshan and comfortable travel from Sivaganga.",
     "details": {
-      "days": 3,
-      "nights": 2,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": []
+      "days": 1,
+      "nights": 0,
+      "stay": [],
+      "food": ["2 Meals (Breakfast & Lunch)"],
+      "places": [
+        "Meenakshi Amman Temple",
+        "Thirumalai Nayakkar Palace",
+        "Gandhi Memorial Museum"
+      ]
     },
-    "recommended": false,
-    "pricePerPerson": 10500,
-    "url": ["user-1.jpg", "user-1.jpg"]
+    "recommended": true,
+    "pricePerPerson": 1800,
+    "images": ["madurai-temple.png", "madurai-temple1.png"]
   },
   {
     "id": 3,
     "title": "Rameswaram Devotional Tour",
-    "category": ["devotional", "family"],
-    "shortDescription": "Holy temples and sacred spiritual experience.",
-    "fullDescription": "Visit the sacred town of Rameswaram and experience spiritual peace through temple darshan and holy water rituals. This tour covers major pilgrimage spots with planned travel and stay. Suitable for families and senior citizens.",
+    "category": ["devotional", "family", "2-day", "domestic"],
+    "shortDescription": "2 days temple tour with hotel stay.",
+    "fullDescription": "Spiritual journey to Rameswaram covering major temples and sacred places with stay and meals included.",
     "details": {
       "days": 2,
       "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": []
+      "stay": ["Hotel Stay (1 Night)"],
+      "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
+      "places": [
+        "Ramanathaswamy Temple",
+        "Agni Theertham",
+        "Pamban Bridge",
+        "Dhanushkodi Beach"
+      ]
     },
     "recommended": true,
     "pricePerPerson": 5500,
-    "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg", "user-1.jpg"]
+    "images": ["rameswaram-temple.png", "pamban-bridge.png"]
   },
   {
     "id": 4,
-    "title": "Madurai Temple Darshan",
-    "category": ["devotional", "one-day"],
-    "shortDescription": "Meenakshi Amman temple visit.",
-    "fullDescription": "A one-day spiritual trip covering the famous Meenakshi Amman Temple and nearby religious places. Ideal for devotees seeking divine blessings in a short time. Smooth travel with planned darshan schedules.",
+    "title": "Kanyakumari Sunrise Trip",
+    "category": ["family", "group", "1-day", "domestic"],
+    "shortDescription": "One day sunrise trip with sightseeing.",
+    "fullDescription": "Witness beautiful sunrise and visit famous monuments in Kanyakumari.",
     "details": {
       "days": 1,
       "nights": 0,
-      "food": [],
       "stay": [],
-      "location": ["Ooty", "Coonoor", "Kotagiri"]
+      "food": ["2 Meals (Breakfast & Lunch)"],
+      "places": [
+        "Vivekananda Rock Memorial",
+        "Thiruvalluvar Statue",
+        "Kanyakumari Beach",
+        "Sunrise View Point"
+      ]
     },
-    "pricePerPerson": 1800,
     "recommended": false,
-    "url": ["user-1.jpg", "user-1.jpg"]
+    "pricePerPerson": 2000,
+    "images": ["kanyakumari.png", "vivekananda-rock.png"]
   },
   {
     "id": 5,
-    "title": "Kanyakumari Sunrise Tour",
-    "category": ["family", "one-day"],
-    "shortDescription": "Sunrise and ocean views at India’s southern tip.",
-    "fullDescription": "Witness the breathtaking sunrise at Kanyakumari and visit famous landmarks like Vivekananda Rock Memorial. Enjoy scenic ocean views and cultural experiences. Perfect for family outings and short trips.",
+    "title": "Kolli Hills Adventure",
+    "category": ["college", "group", "2-day", "domestic"],
+    "shortDescription": "2 days adventure and trekking trip.",
+    "fullDescription": "Enjoy trekking, waterfalls and scenic mountain views in Kolli Hills.",
     "details": {
-      "days": 1,
-      "nights": 0,
-      "food": [],
-      "stay": [],
-      "location": []
+      "days": 2,
+      "nights": 1,
+      "stay": ["Hotel Stay (1 Night)"],
+      "food": ["Day 1 Dinner", "Day 2 Breakfast"],
+      "places": [
+        "Agaya Gangai Waterfalls",
+        "Seeku Parai View Point",
+        "Arapaleeswarar Temple"
+      ]
     },
-    "pricePerPerson": 2000,
     "recommended": false,
-    "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
+    "pricePerPerson": 6800,
+    "images": ["kolli-hills.png", "waterfall-trekking.png"]
   },
   {
     "id": 6,
-    "title": "Yercaud Hill Station Trip",
-    "category": ["family", "group", "two-day"],
-    "shortDescription": "Peaceful hills with viewpoints and lake boating.",
-    "fullDescription": "Escape to the calm hills of Yercaud with pleasant weather and natural beauty. Enjoy lake boating, viewpoints, and relaxed sightseeing. A perfect short getaway for families and groups.",
-    "details": {
-      "days": 2,
-      "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": []
-    },
-    "recommended": false,
-    "pricePerPerson": 6200,
-    "url": ["user-1.jpg"]
-  },
-  {
-    "id": 7,
-    "title": "Valparai Nature Escape",
-    "category": ["family", "group"],
-    "shortDescription": "Tea estates, waterfalls, and forest drives.",
-    "fullDescription": "Travel through lush tea plantations and scenic forest roads in Valparai. Experience waterfalls, wildlife views, and refreshing climate. Ideal for nature lovers and group travelers.",
-    "details": {
-      "days": 3,
-      "nights": 2,
-      "food": ["Breakfast", "Dinner"],
-      "stay": ["Resort"],
-      "location": []
-    },
-    "recommended": true,
-    "pricePerPerson": 9800,
-    "url": ["user-1.jpg"]
-  },
-  {
-    "id": 8,
-    "title": "Mahabalipuram Heritage Tour",
-    "category": ["college", "group", "one-day"],
-    "shortDescription": "Ancient temples and coastal heritage.",
-    "fullDescription": "Explore historic rock-cut temples and monuments of Mahabalipuram. Learn about Tamil heritage while enjoying beachside views. Best suited for college students and group tours.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "food": [],
-      "stay": [],
-      "location": []
-    },
-    "pricePerPerson": 1600,
-    "recommended": false,
-    "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
-  },
-  {
-    "id": 9,
-    "title": "Chennai City Sightseeing",
-    "category": ["college", "group", "one-day"],
-    "shortDescription": "Beach, museums, and city landmarks.",
-    "fullDescription": "Discover Chennai’s popular attractions including Marina Beach, museums, and historical landmarks. This city tour offers a mix of culture, history, and coastal beauty. Ideal for students and group travelers.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "food": [],
-      "stay": [],
-      "location": []
-    },
-    "pricePerPerson": 1500,
-    "recommended": false,
-    "url": ["user-1.jpg", "user-1.jpg", "user-1.jpg"]
-  },
-  {
-    "id": 10,
-    "title": "Coimbatore – Isha Temple Trip",
-    "category": ["devotional", "group", "one-day"],
-    "shortDescription": "Adiyogi Shiva and spiritual calm.",
-    "fullDescription": "Visit the world-famous Adiyogi Shiva statue and experience inner peace at Isha Yoga Center. This spiritual journey offers calm surroundings and a refreshing atmosphere. Suitable for devotees and groups.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "food": [],
-      "stay": [],
-      "location": []
-    },
-    "pricePerPerson": 1700,
-    "recommended": false,
-    "url": ["user-1.jpg"]
-  },
-  {
-    "id": 11,
-    "title": "Hogenakkal Waterfalls Tour",
-    "category": ["family", "group", "one-day"],
-    "shortDescription": "Waterfalls and coracle ride experience.",
-    "fullDescription": "Enjoy the scenic beauty of Hogenakkal waterfalls with coracle rides and riverside views. A refreshing one-day nature trip for families and groups. Ideal for weekend outings.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "food": [],
-      "stay": [],
-      "location": []
-    },
-    "pricePerPerson": 1900,
-    "recommended": false,
-    "url": ["user-1.jpg", "user-1.jpg"]
-  },
-  {
-    "id": 12,
-    "title": "Kolli Hills Adventure Trip",
-    "category": ["college", "group", "two-day"],
-    "shortDescription": "Hairpin bends, trekking, and waterfalls.",
-    "fullDescription": "Experience thrilling hairpin bends, trekking paths, and scenic waterfalls in Kolli Hills. This adventure-filled trip is ideal for college students and young groups seeking excitement and nature.",
-    "details": {
-      "days": 2,
-      "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": []
-    },
-    "recommended": true,
-    "pricePerPerson": 6800,
-    "url": ["user-1.jpg", "user-1.jpg"]
-  },
-  {
-    "id": 13,
-    "title": "Thanjavur Heritage & Temple Tour",
-    "category": ["family", "devotional"],
+    "title": "Thanjavur Heritage Tour",
+    "category": ["family", "devotional", "2-day", "domestic"],
     "shortDescription": "Temple and cultural heritage experience.",
-    "fullDescription": "Visit the magnificent Brihadeeswarar Temple and explore Thanjavur’s rich cultural heritage. This tour offers spiritual and historical insights. Suitable for families and devotees.",
+    "fullDescription": "Explore historic temples and cultural landmarks in Thanjavur.",
     "details": {
       "days": 2,
       "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": []
+      "stay": ["Hotel Stay (1 Night)"],
+      "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
+      "places": [
+        "Brihadeeswarar Temple",
+        "Thanjavur Palace",
+        "Saraswathi Mahal Library"
+      ]
     },
     "recommended": false,
     "pricePerPerson": 6000,
-    "url": ["user-1.jpg", "user-1.jpg"]
+    "images": ["thanjavur-temple.png", "brihadeeswarar-temple.png"]
   },
   {
-    "id": 14,
-    "title": "Mudumalai Wildlife Safari",
-    "category": ["family", "group"],
-    "shortDescription": "Forest safari and wildlife spotting.",
-    "fullDescription": "Explore the rich wildlife of Mudumalai with guided forest safaris and nature trails. Spot animals in their natural habitat and enjoy peaceful surroundings. Ideal for families and nature lovers.",
+    "id": 7,
+    "title": "Dubai Luxury Tour",
+    "category": ["family", "honeymoon", "international"],
+    "shortDescription": "4 days luxury international trip.",
+    "fullDescription": "Explore Dubai with desert safari, shopping and famous skyscrapers.",
     "details": {
-      "days": 2,
-      "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Resort"],
-      "location": []
+      "days": 4,
+      "nights": 3,
+      "stay": ["4 Star Hotel Stay (3 Nights)"],
+      "food": ["Daily Breakfast"],
+      "places": [
+        "Burj Khalifa",
+        "Desert Safari",
+        "Dubai Marina",
+        "Palm Jumeirah"
+      ]
     },
-    "recommended": false,
-    "pricePerPerson": 7200,
-    "url": ["user-1.jpg", "user-1.jpg"]
+    "recommended": true,
+    "pricePerPerson": 55000,
+    "images": ["dubai.png", "burj-khalifa.png"]
   },
   {
-    "id": 15,
-    "title": "Courtallam Falls Weekend Trip",
-    "category": ["family", "group", "two-day"],
-    "shortDescription": "Refreshing waterfalls and leisure stay.",
-    "fullDescription": "Relax and refresh yourself at the famous Courtallam waterfalls. Enjoy leisure time, short treks, and comfortable stay. A perfect weekend getaway for families and groups.",
+    "id": 8,
+    "title": "Singapore Family Vacation",
+    "category": ["family", "international"],
+    "shortDescription": "5 days international family vacation.",
+    "fullDescription": "Visit Universal Studios, Sentosa Island and major attractions in Singapore.",
     "details": {
-      "days": 2,
-      "nights": 1,
-      "food": ["Breakfast"],
-      "stay": ["Hotel"],
-      "location": ["Ooty", "Coonoor", "Kotagiri"]
+      "days": 5,
+      "nights": 4,
+      "stay": ["3 Star Hotel Stay (4 Nights)"],
+      "food": ["Daily Breakfast"],
+      "places": [
+        "Universal Studios",
+        "Sentosa Island",
+        "Marina Bay Sands",
+        "Merlion Park"
+      ]
     },
     "recommended": false,
-    "pricePerPerson": 5800,
-    "url": ["user-1.jpg", "user-1.jpg"]
+    "pricePerPerson": 72000,
+    "images": ["singapore.png", "marina-bay.png"]
   }
 ]
